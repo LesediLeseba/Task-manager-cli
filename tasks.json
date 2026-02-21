@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "description": "Finish my task manager cli project",
+        "status": "done",
+        "createdAt": "2026-02-21T17:01:13.983655",
+        "updatedAt": "2026-02-21T17:16:27.929081"
+    },
+    {
+        "id": 2,
+        "description": "Learn FastAPI",
+        "status": "in-progress",
+        "createdAt": "2026-02-21T17:01:19.041194",
+        "updatedAt": "2026-02-21T17:04:08.228346"
+    },
+    {
+        "id": 3,
+        "description": "Finish this project",
+        "status": "todo",
+        "createdAt": "2026-02-21T17:01:23.894310",
+        "updatedAt": "2026-02-21T17:01:23.894332"
+    }
+]
