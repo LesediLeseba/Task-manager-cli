@@ -46,7 +46,7 @@ The application stores tasks in a JSON file in the current directory and uses on
 1. Clone the repository:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/LesediLeseba/Task-manager-cli.git
 cd task-cli
 
 python --version
